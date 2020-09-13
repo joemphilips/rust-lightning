@@ -8,6 +8,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdlib.h>
+#include <rust_types.h>
 
 /**
  * Used to give chain error details upstream
